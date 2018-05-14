@@ -1,0 +1,6 @@
+2018-03-07 10:56:02 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLException: Data conversion error converting "'' (USER: ID BIGINT NOT NULL)"; SQL statement:
+INSERT INTO "PUBLIC"."USER"("ID","EMAIL","FIRST_NAME","LAST_NAME","USERNAME")VALUES(?,?,?,?,?) -- (?1, ?2, ?3, ?4, ?5) [22018-196]
+2018-03-07 10:56:02 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLException: Data conversion error converting "'' (USER: ID BIGINT NOT NULL)"; SQL statement:
+INSERT INTO "PUBLIC"."USER"("ID","EMAIL","FIRST_NAME","LAST_NAME","USERNAME")VALUES(?,?,?,?,?) -- (?1, ?2, ?3, ?4, ?5) [22018-196]
